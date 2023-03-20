@@ -1,10 +1,3 @@
----
-tags: [Audit]
-title: Cooler
-created: '2023-01-21T08:20:11.597Z'
-modified: '2023-03-20T07:12:01.704Z'
----
-
 # Cooler
 
 ### [M-1] Poor Contract Architecture leading to redundent Instances
