@@ -1,10 +1,3 @@
----
-tags: [Audit]
-title: Blueberry
-created: '2023-02-18T19:15:29.481Z'
-modified: '2023-03-20T07:13:52.224Z'
----
-
 # Blueberry
 
 ### [M-1] User can Loss Funds because of `burn` logic of `WERC20` if ERC20 Token used is `Rabase Token`
