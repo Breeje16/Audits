@@ -1,10 +1,3 @@
----
-tags: [Audit]
-title: Papr
-created: '2023-03-20T07:01:38.573Z'
-modified: '2023-03-20T07:03:10.943Z'
----
-
 # Papr 
 
 ## QA Report (Selected as Grade A Report)
