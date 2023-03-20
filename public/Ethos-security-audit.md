@@ -1,9 +1,3 @@
----
-title: Ethos
-created: '2023-03-20T07:08:03.702Z'
-modified: '2023-03-20T07:08:06.317Z'
----
-
 # Ethos
 
 # QA Report
