@@ -2,7 +2,7 @@
 
 - [Papr](public/Papr-security-audit.md)
 - [Numoen](public/Numoen-security-audit.md)
-- [Ethos Reserve](public/Ethos-reserve-security-audit.md)
+- [Ethos Reserve](public/Ethos-security-audit.md)
 - [Blueberry](public/Blueberry-security-audit.md)
 - [Cooler](public/Cooler-security-audit.md)
 - [Surge](public/Surge-security-audit.md)
