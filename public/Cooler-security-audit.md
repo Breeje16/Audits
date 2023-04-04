@@ -1,5 +1,19 @@
 # Cooler
 
+## Medium and High Risk Issues
+| Count | Explanation |
+|:--:|:-------|
+| [M-1] | POOR CONTRACT ARCHITECTURE LEADING TO REDUNDENT INSTANCES |
+| [M-2] | EDGE CASE NOT HANDLED WHERE BORROWER CAN USE INTEREST FREE LOAN TILL LENDER CALLS DEFAULTED METHOD |
+| [M-3] | SOME AMOUNT OF COLLATERAL CAN BE STUCK IN ESCROW |
+| [H-1] | UNCHECKED RETURN VALUES FROM `transfer` COULD LEAD TO STEALING OF FUNDS. |
+| [H-2] | BORROWER CAN EXPLOIT `roll` METHOD WITH FRONTRUNNING |
+
+| Issue Type | Count |
+|:--:|:--:|
+| Total Medium Risk Issues | 3 |
+| Total High Risk Issues | 2 |
+
 ### [M-1] Poor Contract Architecture leading to redundent Instances
 
 ## Summary
