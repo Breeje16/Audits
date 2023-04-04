@@ -1,16 +1,38 @@
-# Breeje's security audits, reviews, contributions
+# About Me
 
-- [Papr](public/Papr-security-audit.md)
-- [Numoen](public/Numoen-security-audit.md)
+Hi, I am Breeje and Welcome to my repository!
+
+Being an independent smart contract auditor, I help protocols ensure the security and reliability of their smart contracts. With a strong background in programming and a deep understanding of blockchain technology, I have helped many protocols identify and mitigate potential security risks before they cause harm. I have audited various types of smart contracts, including DeFi platforms, Games, NFT marketplaces, and more.
+
+My work has resulted in the identification of vulnerabilities, including reentrancy attacks, MEV Attacks, Logical Issues, Oracle Integration Issues, DOS Issues and other critical issues. By identifying these vulnerabilities and providing recommendations on improving smart contract security, I have helped blockchain projects to improve their security and protect user funds.
+
+# Some of My security audits, reviews, contributions
+
 - [Ethos Reserve](public/Ethos-security-audit.md)
+- [GMX](public/GMX-security-audit.md)
+- [Gogopool](public/Gogopool-security-audit.md)
 - [Blueberry](public/Blueberry-security-audit.md)
 - [Cooler](public/Cooler-security-audit.md)
 - [Surge](public/Surge-security-audit.md)
+- [Papr](public/Papr-security-audit.md)
+- [Numoen](public/Numoen-security-audit.md)
 
 
 ## Others
 
+- I have been graduated from LearnWeb3 Bootcamp. Check out all my NFTs certificates for the Development work I did [here](https://learnweb3.io/profiles/BreejeModi).
+- 10th place in a Sherlock contest (Out of 335 Participants) - [GMX Protocol](https://app.sherlock.xyz/audits/contests/6) [9500 SLOC Codebase]
 - 6th place in a Code4rena contest - [Numoen Protocol](https://code4rena.com/contests/2023-01-numoen-contest)
-- 3rd place in a Sherlock contest - [Bond Protocol](https://app.sherlock.xyz/audits/contests/53)
+- Have successfully Found 1 High and 5 Medium Severity Issues on Immunefi.
+- In 3 months time, Have jumped to Top 320 Wardens on Code4rena All time Leaderboard.
+- Have been among Top 50 Wardens consistently in 60/90 days Leaderboard on Code4rena.
 
-I am available for security consulting and Private Audits. Reach out to me on Twitter [@0xBreeje](https://twitter.com/0xBreeje)
+# What to Expect from my Private Audit Service
+
+- Comprehensive security assessments of your smart contracts.
+- Threat Modelling of your smart contracts.
+- Identification of vulnerabilities in smart contracts.
+- Recommendations on improving smart contract security.
+- Mitigation Review once the suggested changes have been implemented.
+
+If you're looking for an Independent smart contract auditor, Let's connect and discuss how I can help you secure your project. Reach out to me on Twitter [@0xBreeje](https://twitter.com/0xBreeje)
