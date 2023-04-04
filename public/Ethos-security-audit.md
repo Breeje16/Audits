@@ -24,6 +24,22 @@
 | Total Non-Critical Issues | 5 |
 |:--:|:--:|
 
+## Medium and High Risk Issues
+
+| Count | Explanation |
+|:--:|:-------|
+| [M-1] | Oracle price can be Stale / Outdated used by the Protocol |
+| [M-2] | `_withdraw` logic in `ReaperVaultV2` doesn't cover case of Strategy taking withdrawal fees |
+| [M-3] | Multiplication after division in calculating Fees to be charged can lead to large precision loss |
+| [H-1] | Classic First Depositor Attack Vulnerability in `ReaperVaultERC4626` |
+| [H-2] | MEV Bot can make risk free profit by interacting with `ReaperVaultERC4626` |
+| [H-3] | Attacker can exploit No Slippage check in swapping through Sandwich Attack |
+
+| Issue Type | Count |
+|:--:|:--:|
+| Total Medium Risk Issues | 3 |
+| Total High Risk Issues | 3 |
+
 ### [L-01] `pragma experimental ABIEncoderV2` Used is deprecated
 
 ## Description
@@ -164,22 +180,6 @@ File: LUSDToken.sol
 
 ```
 [Link to Code](https://github.com/code-423n4/2023-02-ethos/blob/main/Ethos-Core/contracts/LUSDToken.sol#L146)
-
-## Medium and High Risk Issues
-
-| Count | Explanation |
-|:--:|:-------|
-| [M-1] | Oracle price can be Stale / Outdated used by the Protocol |
-| [M-2] | `_withdraw` logic in `ReaperVaultV2` doesn't cover case of Strategy taking withdrawal fees |
-| [M-3] | Multiplication after division in calculating Fees to be charged can lead to large precision loss |
-| [H-1] | Classic First Depositor Attack Vulnerability in `ReaperVaultERC4626` |
-| [H-2] | MEV Bot can make risk free profit by interacting with `ReaperVaultERC4626` |
-| [H-3] | Attacker can exploit No Slippage check in swapping through Sandwich Attack |
-
-| Issue Type | Count |
-|:--:|:--:|
-| Total Medium Risk Issues | 3 |
-| Total High Risk Issues | 3 |
 
 
 ### [M-1] Oracle price used by the Protocol can be Stale / Outdated 
