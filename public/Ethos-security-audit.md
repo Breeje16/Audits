@@ -1,6 +1,4 @@
-# Ethos
-
-# QA Report
+# Ethos Reserve
 
 ## Low Risk Issues
 | Count | Explanation | Instances |
