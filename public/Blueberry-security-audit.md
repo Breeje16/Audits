@@ -1,5 +1,20 @@
 # Blueberry
 
+## Medium and High Risk Issues
+| Count | Explanation |
+|:--:|:-------|
+| [M-1] | User can Loss Funds because of `burn` logic of `WERC20` if ERC20 Token used is `Rabase Token` |
+| [M-2] | Used Depreciated `safeApprove` and For some tokens that don't support approve `type(uint256).max` amount it will not work. |
+| [M-3] | The contract should use approve(0) before approve |
+| [M-4] | All `initialize` methods can be Frontrun because of lack of access control |
+| [M-5] | `doCutDepositFee` and `doCutWithdrawFee` doesn't take `FEES ON TRANSFER TOKENS` in account |
+| [H-1] | "First Deposit Bug" in cToken (CompoundV2 Fork) can lead to Stealing of funds for first depositor in `SoftVault` |
+
+| Issue Type | Count |
+|:--:|:--:|
+| Total Medium Risk Issues | 5 |
+| Total High Risk Issues | 1 |
+
 ### [M-1] User can Loss Funds because of `burn` logic of `WERC20` if ERC20 Token used is `Rabase Token`
 
 ## Summary
