@@ -27,12 +27,8 @@ My work has resulted in the identification of vulnerabilities, including reentra
 - In 3 months time, Have jumped to Top 320 Wardens on Code4rena All time Leaderboard.
 - Have been among Top 50 Wardens consistently in 60/90 days Leaderboard on Code4rena.
 
-# What to Expect from my Private Audit Service
+# Private Audit Process
 
-- Comprehensive security assessments of your smart contracts.
-- Threat Modelling of your smart contracts.
-- Identification of vulnerabilities in smart contracts.
-- Recommendations on improving smart contract security.
-- Mitigation Review once the suggested changes have been implemented.
+Check out my Private Audit process description [here](Private-audit-process.md).
 
-If you're looking for an Independent smart contract auditor, Let's connect and discuss how I can help you secure your project. Reach out to me on Twitter [@0xBreeje](https://twitter.com/0xBreeje)
+If you're looking for an Independent smart contract auditor, Let's connect and discuss how I can help you secure your project. Reach out to me on Twitter [@0xBreeje](https://twitter.com/0xBreeje).
