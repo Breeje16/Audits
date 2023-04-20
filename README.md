@@ -14,8 +14,8 @@ My work has resulted in the identification of vulnerabilities, including reentra
 - [Blueberry](public/Blueberry-security-audit.md)
 - [Cooler](public/Cooler-security-audit.md)
 - [Surge](public/Surge-security-audit.md)
-- [Papr](public/Papr-security-audit.md)
 - [Numoen](public/Numoen-security-audit.md)
+- [Papr](public/Papr-security-audit.md)
 
 
 ## Others
@@ -25,7 +25,6 @@ My work has resulted in the identification of vulnerabilities, including reentra
 - 6th place in a Code4rena contest - [Numoen Protocol](https://code4rena.com/contests/2023-01-numoen-contest)
 - Have successfully Found 1 High and 5 Medium Severity Issues on Immunefi.
 - In 3 months time, Have jumped to Top 320 Wardens on Code4rena All time Leaderboard.
-- Have been among Top 50 Wardens consistently in 60/90 days Leaderboard on Code4rena.
 
 # Private Audit Process
 
