@@ -24,7 +24,6 @@ My work has resulted in the identification of vulnerabilities, including reentra
 - 8th place in a Sherlock contest (Out of 335 Participants) - [GMX Protocol](https://app.sherlock.xyz/audits/contests/6) [9500 SLOC Codebase]
 - 6th place in a Code4rena contest - [Numoen Protocol](https://code4rena.com/contests/2023-01-numoen-contest)
 - Have successfully Found 1 High and 5 Medium Severity Issues on Immunefi.
-- In 3 months time, Have jumped to Top 320 Wardens on Code4rena All time Leaderboard.
 
 # Private Audit Process
 
