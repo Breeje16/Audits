@@ -23,6 +23,7 @@ My work has resulted in the identification of vulnerabilities, including reentra
 - I have been graduated from LearnWeb3 Bootcamp. Check out all my NFTs certificates for the Development work I did [here](https://learnweb3.io/profiles/BreejeModi).
 - 8th place in a Sherlock contest (Out of 335 Participants) - [GMX Protocol](https://app.sherlock.xyz/audits/contests/6) [9500 SLOC Codebase]
 - 6th place in a Code4rena contest - [Numoen Protocol](https://code4rena.com/contests/2023-01-numoen-contest)
+- 5th place in a Sherlock contest (Out of 140 Participants) - [Blueberry Protocol](https://app.sherlock.xyz/audits/contests/69)
 - Till now have found over 15 High Severity Issues and over 40 Medium Severity Issues in codebases.
 - Have successfully Found 1 High and 5 Medium Severity Issues on Immunefi.
 
