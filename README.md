@@ -2,12 +2,15 @@
 
 Hi, I am Breeje and Welcome to my repository!
 
-Being an independent smart contract auditor, I help protocols ensure the security and reliability of their smart contracts. With a strong background in programming and a deep understanding of blockchain technology, I have helped many protocols identify and mitigate potential security risks before they cause harm. I have audited various types of smart contracts, including DeFi platforms, Games, NFT marketplaces, and more.
-
-My work has resulted in the identification of vulnerabilities, including reentrancy attacks, MEV Attacks, Logical Issues, Oracle Integration Issues, DOS Issues and other critical issues. By identifying these vulnerabilities and providing recommendations on improving smart contract security, I have helped blockchain projects to improve their security and protect user funds.
+I Discover Faulty States in Smart Contracts. I've explored various projects in various domains like DeFi, games, and NFTs, finding important issues along the way. My main aim is to contribute as much as I can in making the blockchain ecosystem more secure for everyone.
 
 # Some of My security audits, reviews, contributions
 
+- [Venus Protocol](public/Venus-prime-security-audit.md)
+- [Arcade Protocol](public/Arcade-security-audit.md)
+- [Ethena](public/Ethena-security-audit.md)
+- [Maia DAO](public/Maia-security-audit.md)
+- [Tapioca DAO](public/Tapioca-security-audit.md)
 - [Ethos Reserve](public/Ethos-security-audit.md)
 - [GMX](public/GMX-security-audit.md)
 - [Gogopool](public/Gogopool-security-audit.md)
@@ -20,12 +23,16 @@ My work has resulted in the identification of vulnerabilities, including reentra
 
 ## Others
 
-- I have been graduated from LearnWeb3 Bootcamp. Check out all my NFTs certificates for the Development work I did [here](https://learnweb3.io/profiles/BreejeModi).
+- I have been graduated from LearnWeb3 Bootcamp. Check out all my NFTs certificates for the Development work I did [here](https://learnweb3.io/u/BreejeModi/badges).
+- Ranked in the Top 150 on the Code4rena Leaderboard for the year 2023.
+- Ranked in the Top 90 on the Sherlock Leaderboard for Audits.
+- Ranked in the Top 40 on the Sherlock Leaderboard for Judging.
+- 6th place in a Code4rena contest (Out of 115 Participants) - [Venus Protocol](https://code4rena.com/contests/2023-09-venus-prime)
 - 8th place in a Sherlock contest (Out of 335 Participants) - [GMX Protocol](https://app.sherlock.xyz/audits/contests/6) [9500 SLOC Codebase]
 - 6th place in a Code4rena contest - [Numoen Protocol](https://code4rena.com/contests/2023-01-numoen-contest)
 - 5th place in a Sherlock contest (Out of 140 Participants) - [Blueberry Protocol](https://app.sherlock.xyz/audits/contests/69)
-- Till now have found over 15 High Severity Issues and over 40 Medium Severity Issues in codebases.
-- Have successfully Found 1 High and 5 Medium Severity Issues on Immunefi.
+- Found over 50+ HMs in Competitive Audits.
+- 5+ Paid Bug Reports on Immunefi.
 
 # Private Audit Process
 
